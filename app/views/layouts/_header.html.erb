@@ -1,0 +1,19 @@
+<header>
+
+  <nav class="round">
+    <ul>
+      <li><%= link_to "Ballina", root_path %></li>
+      <% if signed_in? %>
+      <li><%= link_to "Anetaret", users_path %></li>
+      <li><%= link_to "Profili", current_user %></li>
+      <li><%= link_to "Editime", edit_user_path(current_user) %></li>
+      <% end %>
+      <li><%= link_to "Ndihme", help_path %></li>
+      <% if signed_in? %>
+      <li><%= link_to "Dil jashte", signout_path, :method => :delete %></li>
+      <% else %>
+      <li><%= link_to "Hyni brenda", signin_path %></li>
+      <% end %>
+    </ul>
+  </nav>
+</header>

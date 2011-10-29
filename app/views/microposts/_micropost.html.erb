@@ -1,0 +1,17 @@
+<tr>
+  <td class="micropost">
+    <span class="content"><%= micropost.content %></span>
+    
+
+    <span class="timestamp">
+      Postuar para <%= time_ago_in_words(micropost.created_at) %> h.
+    </span>
+  </td>
+  <% if current_user?(micropost.user) %>
+  <td>
+    <%= link_to "shlyeje", micropost, :method => :delete,
+                                     :confirm => "Vertete?",
+                                     :title => micropost.content %>
+  </td>
+  <% end %>
+</tr>

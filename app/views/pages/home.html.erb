@@ -1,0 +1,24 @@
+<% if signed_in? %>
+  <table class="front" summary="For signed-in users">
+    <tr>
+      <td class="main">
+        <h3 class="micropost">Cka ka 3?</h3>
+        <%= render 'shared/micropost_form' %>
+        <%= render 'shared/feed' %>
+      </td>
+      <td class="sidebar round">
+        <%= render 'shared/user_info' %>
+        <%= render 'shared/stats' %>
+      </td>
+    </tr>
+  </table>
+<% else %>
+  <h3>Cka ka 3?</h3>
+
+  <p>
+    Cka ka 3?
+  </p>
+
+  <%= link_to "Regjistrohu!", signup_path, :class => "signup_button round" %>
+<% end %>
+

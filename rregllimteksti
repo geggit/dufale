@@ -1,0 +1,144 @@
+[33mcommit e8a16e9f950793d8e3d4cf36274d62966b8999d6[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Thu Jun 2 10:25:29 2011 +0200
+
+    rregllimteksti
+
+[33mcommit 9b14ca9996ad84bdfcb8f5f31a791335db341a94[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sun May 29 21:38:59 2011 +0200
+
+    Corrected the title
+
+[33mcommit c0af0d0462de1ea1388244ec2642682be92df7ea[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sun May 29 12:13:13 2011 +0200
+
+    BirdlogoTellit30
+
+[33mcommit f16f0c0af9c2f989aed0030d508bfb10adf0e263[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sun May 29 07:25:23 2011 +0200
+
+    perpjekje nderrimi logoje
+
+[33mcommit 5aab9880a6e00a5f206e76e8580b349152cf77e9[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sat May 28 23:46:09 2011 +0200
+
+    Changed FAKER in sample_data.rake
+
+[33mcommit 0ebc535c01c5972ab11784e46ff88a712c69d6f0[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sat May 28 22:12:06 2011 +0200
+
+    Changed again back to rake 0.9.0 (task blla blla)
+
+[33mcommit b4bcc619dcca660681078bf3eff34f679fecd600[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sat May 28 20:55:08 2011 +0200
+
+    Changed from rake 0.9.0 to rake 0.8.7 (task blla blla)
+
+[33mcommit 299c75bb171f48b15d2993f8d0777b94e41b097d[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sat May 28 19:33:45 2011 +0200
+
+    Added user following
+
+[33mcommit 344d074fdf4505f2e672f5a8da7564a09cf31a15[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sat May 28 19:26:01 2011 +0200
+
+    Added user following
+
+[33mcommit a75ada6d9d79864c5f646cccebc68cd32fcf083d[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sun May 22 23:42:05 2011 +0200
+
+    Added user microposts
+
+[33mcommit 21df3f960134d55c330109fb77e151d0943774c2[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sun May 22 15:41:03 2011 +0200
+
+    Done with user edit/update, index, and destroy actions
+
+[33mcommit 1f4bc77409b8897d75d57a104357b1e80e891bc6[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sun May 15 22:07:34 2011 +0200
+
+    Done with sign in
+
+[33mcommit 26ca822131921b07ec92e363871bc9a1c1935444[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sun May 15 16:14:25 2011 +0200
+
+    User signup complete
+
+[33mcommit 06254444b7bbe9e9a2e8fc8bcfd4133e6a0be18b[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sun May 15 10:06:06 2011 +0200
+
+    User model with passwords, and user show page
+
+[33mcommit c9689587bcbba7b18d30bba5ec9f62640e2d6178[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sun May 8 03:02:15 2011 +0200
+
+    Finished first cut of the User model
+
+[33mcommit a8e23df7059b6fd88fc0ebb34c7b6dc4cf959d97[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sun May 1 09:20:07 2011 +0200
+
+    Finished layout and routes
+
+[33mcommit 4ff6f63d77358d4897b4e70d5e0b24d637e95265[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Sun May 1 03:16:11 2011 +0200
+
+    Removed default Rails page
+
+[33mcommit 7505160a02f31662a6dad7ae056f2f7640719696[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Fri Apr 22 11:37:15 2011 +0200
+
+    Serish pages corrected 2
+
+[33mcommit 7cb883e39be2f25baf39ba80b4d22021aae6aefc[m
+Merge: 7b38d9a 83c5ad9
+Author: geggit <ronbeli@hotmail.com>
+Date:   Fri Apr 22 11:22:04 2011 +0200
+
+    Serish pages
+
+[33mcommit 7b38d9ae9d0bf7b7216e54851cf55b070fe5adad[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Thu Apr 21 16:11:31 2011 +0200
+
+    Done with static pages
+
+[33mcommit 83c5ad98dc4e45db66a5e04d86c14b9db1239412[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Thu Apr 21 15:21:00 2011 +0200
+
+    Done with static pages
+
+[33mcommit d5164372c9704f7f5722385fc46f5e9b5e64f013[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Tue Apr 19 19:58:08 2011 +0200
+
+    Added a Pages controller
+
+[33mcommit bfbf7f87d2572bdf28af66bb2123980b9eadff69[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Tue Apr 19 13:42:05 2011 +0200
+
+    Improved the README
+
+[33mcommit 19cfb3c703bb24f2c46fe83b942a4d54af705f3d[m
+Author: geggit <ronbeli@hotmail.com>
+Date:   Tue Apr 19 13:41:13 2011 +0200
+
+    Initial commit

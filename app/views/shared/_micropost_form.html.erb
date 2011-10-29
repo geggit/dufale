@@ -1,0 +1,10 @@
+<%= form_for @micropost do |f| %>
+  <%= render 'shared/error_messages', :object => f.object %>
+  <h6>Thuaje (cicerroje) nje fjale (te madhe) :-) :</h6>
+  <div class="field">
+    <%= f.text_area :content %>
+  </div>
+  <div class="actions">
+    <%= f.submit "Publikoje" %>
+  </div>
+<% end %>

@@ -1,0 +1,17 @@
+<h3>Hyni brenda</h3>
+
+<%= form_for(:session, :url => sessions_path) do |f| %>
+  <div class="field">
+    <div> Email-i: <div>
+    <%= f.text_field :email %>
+  </div>
+  <div class="field">
+    <div> Fjala e kalimit: <div>
+    <%= f.password_field :password %>
+  </div>
+  <div class="actions">
+    <%= f.submit "Hyni brenda" %>
+  </div>
+<% end %>
+
+<p>Anetar i ri? <%= link_to "Regjistrohu!", signup_path %></p>
